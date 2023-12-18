@@ -1,0 +1,45 @@
+Dunedin Shop
+24 volt system
+1200 watt inverter ( when needed )
+3000 watt inverter all the time
+- when garage not plugged in or nothing else on, idle = 58 watts/hr = 1392 watts per day = 4.82 days
+- when garage charging 209 watts or 2508 per day = 2.67 days
+Batteries = 12 vdc * 2 * 280 ah = 560 ah = 6720 watts
+- charging vdc = 29.2 per bms at 100 amps = 2920 watts
+- 2920 x 5 = 14,600 max per day
+- 200 amp bms $142
+- 24 vdc @ 280ah battery cells $785
+  - 3.2 vdc cells
+  - discharge end vdc 2.5
+  - charging voltage 3.65vdc
+  - 4000 cycles
+
+
+Garage
+12 volt system
+1200 watt inverter
+- when TV is off 44 w/hr = 24 x 44 = 1056 watts or 4.84 days
+Batteries = 12.8 vdc * 2 * 200 ah = 400ah = 5120 watts
+
+Camp Shop
+12 volt system
+3000 watt inverter
+- not running all the time
+Batteries = 12.8 vdc * 4 * 200 ah = 800ah = 10,240 watts
+
+Camp Main
+24 volt system
+3000 watt inverter
+Batteries = 12.8 vdc * 4 * 300 ah = 1200 ah = 15,360 watts
+- 122 watts per hour at idle ( wo dehumdifier ) = 2.928 watts per day = 5.2 days
+
+Golf Cart
+48 volt system
+2500 watt inverter
+Batteries = 51.2 vdc * 3 * 30 ah = 90ah = 4608 watts
+= 4608 / 12.8 = 360 ah equivalent
+ Distance = 4608 / 145 = 31.77 miles
+
+Total stored wattage = 560ah + 400ah + 360ah + 800ah + 1200ah = 3320ah = 42,496 watts
+Total at home = 560ah + 400ah + 360ah = 1320ah = 16,896 watts
+Total at camp = 800ah + 1200ah = 2000ah = 25,600 watts
